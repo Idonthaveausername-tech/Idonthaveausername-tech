@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Idonthaveausername-tech
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on nothing
+-Demo
 -
 
 <!---
